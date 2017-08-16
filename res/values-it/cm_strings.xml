@@ -247,7 +247,7 @@
   <string name="memory_startup_apps_title">App avviate all\'accensione</string>
   <!-- Advanced restart options -->
   <string name="advanced_reboot_title">Riavvio avanzato</string>
-  <string name="advanced_reboot_summary">Quando attivo, le opzioni per riavviare in recovery, bootloader o effetuare un riavvio rapido saranno mostrate nel menu di riavvio</string>
+  <string name="advanced_reboot_summary">Quando attivo, le opzioni per riavviare in recovery, bootloader o effettuare un riavvio rapido saranno mostrate nel menù di riavvio</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Mescola disposizione</string>
   <string name="unlock_scramble_pin_layout_summary">Mescola la disposizione del tastierino PIN per lo sblocco del dispositivo</string>
